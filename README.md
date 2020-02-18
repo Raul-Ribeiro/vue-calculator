@@ -22,5 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-![alt text](https://github.com/raulzitorrs123/vue-calculator/blob/master/src/img/download.png)
